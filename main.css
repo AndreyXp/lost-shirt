@@ -80,7 +80,7 @@ ul > li {
 }
 
 .fade-slider__item {
-    background: url("./img/slider/slider_pic_1.png") center center / contain no-repeat;
+    background: url("img/slider/slider_pic_1.png") center center / contain no-repeat;
     height: 100%;
 }
 
