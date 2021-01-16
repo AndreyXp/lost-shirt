@@ -80,7 +80,7 @@ ul > li {
 }
 
 .fade-slider__item {
-    background: url("img/slider/slider_pic_1.png") center center / contain no-repeat;
+    background: url("./img/slider/slider_pic_1.png") center center / contain no-repeat;
     height: 100%;
 }
 
@@ -298,11 +298,11 @@ ul > li {
 }
 
 .collections__item--type-guys:before {
-    background-image: url('img/people/collection_man.png');
+    background-image: url('.img/people/collection_man.png');
 }
 
 .collections__item--type-girls:before {
-    background-image: url('img/people/collection_woman.png');
+    background-image: url('.img/people/collection_woman.png');
     width: 80%;
     top: -31%;
     left: -25%;
